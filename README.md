@@ -11,6 +11,7 @@ Downlaod the compiler and run `installer.sh`
 Run and compile the program
 
 ```
+  source ./reo-linux_mac/initreo.sh
   java -jar reo-linux_mac/bin/reo-1.0.jar main.treo
   javac Main.java
   java Main

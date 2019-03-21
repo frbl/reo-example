@@ -26,5 +26,4 @@ public static void Blue(Input<String> port) {
          System.out.print(datum);
       }
    }
-   System.exit(0);
 }
